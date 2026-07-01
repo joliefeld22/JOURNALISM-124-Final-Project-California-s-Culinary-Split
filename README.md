@@ -22,6 +22,11 @@ To explore geographic patterns in the data, I imported the full dataset into Goo
 The volume gap is large. San Francisco accounts for 548 total entries in the dataset — nominees, semifinalists, and winners combined — compared to just 314 for Los Angeles. SF has more than 80 winners to LA's 28. But raw volume only tells part of the story.
 The conversion gap is just as revealing. San Francisco converts 15% of its total entries into wins. Los Angeles converts just 8.9%. That means even when LA restaurants and chefs reach the semifinalist and nominee stages, they win at roughly half the rate of their Bay Area counterparts. SF dominated almost every year. Looking at winners by year, San Francisco appeared in the winner column in 27 of the 31 years where awards were given. Los Angeles appeared in only 19 of those years, and in many years where both cities won, SF outpaced LA by a ratio of 3 or 4 to 1. The one notable exception came in 1991 and 2001, when LA briefly matched or exceeded SF's win count, and again in 2016, when LA produced 4 winners to SF's 0. The most recent years suggest a possible shift: in 2020 and 2023, LA won more awards than SF, and in 2024, both cities won once each. These patterns can be seen in the two data visualizations I attached in this project. 
 
+Description of Visuals: 
+Chart 1: San Francisco outpaces Los Angeles at every stage of the James Beard Awards, with more than double the nominees, semifinalists, and winners over 33 years. Even when accounting for total entries, SF converts 15% of its appearances into wins compared to LA's 9%.
+
+Chart 2: SF's dominance over LA held firm across three decades, but the 2020s mark a notable shift. LA has won 5 awards since 2020 compared to SF's 2, suggesting the gap may finally be closing.
+
 **What the Numbers Suggest — and What They Can't Say**
 
 The data makes clear that the James Beard Foundation has historically favored San Francisco over Los Angeles, both in volume and in the rate at which it converts recognition into wins.
