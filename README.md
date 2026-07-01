@@ -14,6 +14,8 @@ That's nearly a 3-to-1 gap between two cities that sit in the same state, draw f
 
 This analysis draws from a dataset of James Beard Award records spanning 1991 to 2024, containing 14,922 individual entries across all award categories. The dataset was constructed by data journalist Cody Winchester, who scraped and compiled the records from the James Beard Foundation's own award-search page. It was surfaced through the Data Is Plural archive, a newsletter that highlights interesting datasets collected by journalists and researchers. Winchester's dataset provides each honoree's name, year, category, subcategory, and award status, along with additional variables by category — including location for restaurant and chef awards, which is the field central to this analysis. Because the underlying data originates from the James Beard Foundation itself, it is authoritative on outcomes. However, as with any institutional dataset, it reflects the institution's choices — not an objective measure of culinary quality. The Foundation has faced scrutiny in recent years over the demographic makeup of its honorees and the cultural biases embedded in its judging criteria. That context matters when interpreting these numbers.
 
+[Link:] (https://github.com/cjwinchester/james-beard)
+
 **Analysis**
 
 To explore geographic patterns in the data, I imported the full dataset into Google Sheets and built pivot tables filtering by California locations and breaking down entries by award status: Nominee, Semifinalist, and Winner.
