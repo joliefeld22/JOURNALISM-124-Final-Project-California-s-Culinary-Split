@@ -3,6 +3,8 @@
 
 *San Francisco Has Won Three Times More James Beard Awards Than Los Angeles. Here's What the Data Shows.*
 
+Here is a link to the Google Sheet where I inputted the data: [Google Sheet] (https://docs.google.com/spreadsheets/d/1vT3ENYXtzbPPubyqdMs9KHINPR2DgWXcjDAPSEVA8_g/edit?gid=0#gid=0) 
+
 **Introduction**
 
 The James Beard Awards are widely considered the most prestigious recognition in American food. Since 1991, the Foundation has handed out awards across hundreds of categories — from Outstanding Chef to Best New Restaurant — to culinary figures across the country. But a closer look at 33 years of award data reveals a striking imbalance within California: San Francisco has won 82 times. Los Angeles has won 28.
